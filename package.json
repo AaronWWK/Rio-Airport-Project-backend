@@ -1,0 +1,29 @@
+{
+  "name": "Rio-Airport-Project-backend",
+  "version": "1.0.0",
+  "description": "Rio-Airport-Project-backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronWWK/Rio-Airport-Project-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronWWK/Rio-Airport-Project-backend/issues"
+  },
+  "homepage": "https://github.com/AaronWWK/Rio-Airport-Project-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "pg": "^8.2.1"
+  }
+}
